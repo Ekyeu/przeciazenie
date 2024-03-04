@@ -1,0 +1,15 @@
+C:\Users\konto\source\repos\przeciazenie\przeciazenie\bin\Debug\net6.0\przeciazenie.exe
+C:\Users\konto\source\repos\przeciazenie\przeciazenie\bin\Debug\net6.0\przeciazenie.deps.json
+C:\Users\konto\source\repos\przeciazenie\przeciazenie\bin\Debug\net6.0\przeciazenie.runtimeconfig.json
+C:\Users\konto\source\repos\przeciazenie\przeciazenie\bin\Debug\net6.0\przeciazenie.dll
+C:\Users\konto\source\repos\przeciazenie\przeciazenie\bin\Debug\net6.0\przeciazenie.pdb
+C:\Users\konto\source\repos\przeciazenie\przeciazenie\obj\Debug\net6.0\przeciazenie.csproj.AssemblyReference.cache
+C:\Users\konto\source\repos\przeciazenie\przeciazenie\obj\Debug\net6.0\przeciazenie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konto\source\repos\przeciazenie\przeciazenie\obj\Debug\net6.0\przeciazenie.AssemblyInfoInputs.cache
+C:\Users\konto\source\repos\przeciazenie\przeciazenie\obj\Debug\net6.0\przeciazenie.AssemblyInfo.cs
+C:\Users\konto\source\repos\przeciazenie\przeciazenie\obj\Debug\net6.0\przeciazenie.csproj.CoreCompileInputs.cache
+C:\Users\konto\source\repos\przeciazenie\przeciazenie\obj\Debug\net6.0\przeciazenie.dll
+C:\Users\konto\source\repos\przeciazenie\przeciazenie\obj\Debug\net6.0\refint\przeciazenie.dll
+C:\Users\konto\source\repos\przeciazenie\przeciazenie\obj\Debug\net6.0\przeciazenie.pdb
+C:\Users\konto\source\repos\przeciazenie\przeciazenie\obj\Debug\net6.0\przeciazenie.genruntimeconfig.cache
+C:\Users\konto\source\repos\przeciazenie\przeciazenie\obj\Debug\net6.0\ref\przeciazenie.dll
